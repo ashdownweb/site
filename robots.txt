@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ashdownweb.github.io/site/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ashdown Fabrication",
+    "description": "",
+    "home_page_url": "https://ashdownweb.github.io/site",
+    "feed_url": "https://ashdownweb.github.io/site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ashdown"
+    },
+    "items": [
+    ]
+}
