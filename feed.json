@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ashdown Fabrication",
     "description": "",
-    "home_page_url": "https://ashdown.online",
-    "feed_url": "https://ashdown.online/feed.json",
+    "home_page_url": "https://www.ashdown.online",
+    "feed_url": "https://www.ashdown.online/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ashdown"
